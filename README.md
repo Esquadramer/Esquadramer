@@ -48,9 +48,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Esquadramer&area=false&hide_border=true&hide_title=true&theme=gotham" height="250" alt="activity-graph graph"  />
-</div>
-
-###
