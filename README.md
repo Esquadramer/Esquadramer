@@ -1,50 +1,85 @@
-<h2 align="left">Olá👋! Bem vindo ao meu perfil do Github</h2>
+<div align="center" width="100%">
+    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=24&pause=1000&color=70A5FD&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+!" alt="Typing SVG" /></a> -->
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&letterSpacing=4px&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&lines=Welcome+to+my+GitHub!;I'm+a+software+engineer" alt="Typing SVG" /></a>
 
-###
+<img align="right" width="200px" src="https://github.com/user-attachments/assets/d296ac55-277c-4588-aef2-5a7688d6265f">
+    
+</div>
 
-<p align="left">♦ Eu me chamo Tiago de Freitas Machado, de Paraná - Brasil<br><br>♦ 25 Anos<br><br>♦ Desenvolvedor Back-End: TypeScript | MySQL | CSS | C++ | Java | Node.Js | Git | Next.Js | React<br><br> Estou em busca de me profissionalizar na Programação para futuramente ser um Desenvolvedor full-stack Sênior</p>
 
-###
 
-<h2 align="left">Minhas Habilidades</h2>
+---
 
-###
+<div>
+    Olá, eu sou <b style="color:#70A5FD;">Tiago de Freitas Machado</b>
+</div>
+<br>
+Sou um <b>desenvolvedor Full-Stack</b>, formado em Análise e Desenvolvimento de Sistemas pela Uninter de Curitiba e busco me aprofundar em Engenharia de Software. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, me interesso e tenho bastante experiência na construção de back-end. Minhas principais tecnologias são <b>React, TypeScript, Angular, Java, C++, Python e SpringBoot</b>. Sigo estudando constantemente e aprimorando meus conhecimentos.
+
+
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="cplusplus logo"  />
+    <br>
+    <a href="https://www.linkedin.com/in/tiagofreitasmachado/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+  <a href="https://portfolio-pessoal-mu-virid.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-8b8cf5?style=for-the-badge&logoColor=white" alt="Portfolio">
+  </a>
+
+  <a href="https://www.instagram.com/__freitasmachado.index__/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ad5beb?style=for-the-badge&logoColor=white" alt="Instagram">
+  </a>
 </div>
 
-###
 
-###
+<br>
 
-<h2 align="center">Redes Sociais</h2>
 
-###
+---
+
+### 💻 Tech Stack
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,angular,mysql,spring,java,python,postgresql,git" />
+    <br>
+</div>
+
+<br/>
+
+---
+
+
+### 🌐 Idiomas
+
+* 🇧🇷 **Português:** Nativo
+* 🇺🇸 **Inglês:** Iniciante(estudando)
+
+<br/>
+
+---
+
+
+### 📊  GitHub Stats
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=CaioScura&theme=tokyonight&hide_border=true&card_width=720" alt="GitHub Streak" /></a>
+</div>
+
+---
+
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=tiagofreitasmachadotj@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=tiagomachadoo&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="https://www.instagram.com/__freitasmachado.index__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/tiagofreitasmachado/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&size=32&letterSpacing=4px&pause=1000&color=70A5FD&center=true&vCenter=true&width=720&lines=HELLO+WORLD;DEVELOPING...;BUILDING..." alt="Typing SVG" /></a>
 </div>
 
-###
+<div align="center">
+    <img src="https://github.com/CaioScura/CaioScura/blob/output/github-contribution-grid-snake.svg" alt="snake output" />
+</div>
+
+
+
+
+  
+
+</p>
