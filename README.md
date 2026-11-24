@@ -23,9 +23,11 @@ Sou um profissional em transição de carreira para a área de Tecnologia, cursa
 <br>
 Antes da tecnologia, atuei por mais de 5 anos em processos operacionais industriais (Plástico e Metalúrgica), o que me trouxe disciplina, organização e visão de processos — habilidades que hoje aplico no desenvolvimento e no suporte a sistemas. Também tenho formação como Bombeiro Civil Classe III, com experiência em treinamentos e instrução, o que reforça minha facilidade de comunicação e didática — um diferencial para vagas de Trainner.
 Tenho perfil proativo, aprendizado rápido e grande interesse em compartilhar conhecimento. Busco um ambiente onde possa unir minha base técnica em constante evolução com minha facilidade de ensinar e comunicar.
-
+<br>
+<br>
 📌 Competências: <b>Python • Java • PHP • JavaScript/TypeScript • React/Next.js • HTML/CSS • MySQL • APIs REST • ServiceNow (Estudos) • Lógica de Programação • Pacote Office Avançado • Linux/Windows • Didática e Comunicação.</b>
-
+<br>
+<br>
 📩 Aberto a oportunidades presenciais (São José dos Pinhais/Curitiba e região) e remotas. Vamos conversar!
 
 
