@@ -11,10 +11,22 @@
 ---
 
 <div>
-    Olá, eu sou <b style="color:#70A5FD;">Tiago de Freitas Machado</b>
+    Olá, eu sou <b style="color:#00A100;">Tiago de Freitas Machado</b>
 </div>
 <br>
-Sou um <b>desenvolvedor Full-Stack</b>, formado em Análise e Desenvolvimento de Sistemas pela Uninter de Curitiba e busco me aprofundar em Engenharia de Software. Me interesso muito por design e criações de layouts criativos com interfaces funcionais e atrativas, me interesso e tenho bastante experiência na construção de back-end. Minhas principais tecnologias são <b>React, TypeScript, Angular, Java, C++, Python e SpringBoot</b>. Sigo estudando constantemente e aprimorando meus conhecimentos.
+<br>
+Em transição de carreira para Tecnologia | ADS (Uninter) | ServiceNow | Desenvolvedor Júnior |
+<br>
+<br>
+Sou um profissional em transição de carreira para a área de Tecnologia, cursando Análise e Desenvolvimento de Sistemas (Uninter). Tenho experiência prática como estagiário em desenvolvimento back-end (3 meses) e conhecimentos em <b>Python, Java, PHP, HTML, CSS, TypeScript, React (Next.js), APIs RESTful e Bancos de dados MySQL.</b> Atualmente estou me aprofundando em ServiceNow (ITSM) e busco oportunidades como Desenvolvedor Júnior, Trainner/Treinador em Programação ou ServiceNow Júnior.
+<br>
+<br>
+Antes da tecnologia, atuei por mais de 5 anos em processos operacionais industriais (Plástico e Metalúrgica), o que me trouxe disciplina, organização e visão de processos — habilidades que hoje aplico no desenvolvimento e no suporte a sistemas. Também tenho formação como Bombeiro Civil Classe III, com experiência em treinamentos e instrução, o que reforça minha facilidade de comunicação e didática — um diferencial para vagas de Trainner.
+Tenho perfil proativo, aprendizado rápido e grande interesse em compartilhar conhecimento. Busco um ambiente onde possa unir minha base técnica em constante evolução com minha facilidade de ensinar e comunicar.
+
+📌 Competências: <b>Python • Java • PHP • JavaScript/TypeScript • React/Next.js • HTML/CSS • MySQL • APIs REST • ServiceNow (Estudos) • Lógica de Programação • Pacote Office Avançado • Linux/Windows • Didática e Comunicação.</b>
+
+📩 Aberto a oportunidades presenciais (São José dos Pinhais/Curitiba e região) e remotas. Vamos conversar!
 
 
 
